@@ -1,0 +1,58 @@
+{
+    "skills": [
+      {
+        "id": "1",
+        "src": "public/img/Html 1.ico",
+        "title": "Html",
+        "description": "HTML (HyperText Markup Language)."
+      
+      },
+
+      {
+        "id": "2",
+        "src": "public/img/css2.ico",
+        "title": "Css",
+        "description": "CSS is the acronym of “Cascading Style Sheets."
+      
+      },
+
+      {
+        "id": "3",
+        "src": "public/img/javascript3 (1).ico",
+        "title": "JavaScript",
+        "description": "Create dynamic content for websites."
+      
+      },
+
+
+      {
+        "id": "4",
+        "src": "public/img/react4.ico",
+        "title": "React Js",
+        "description": " The library for web and native user interfaces"
+
+       
+      
+      }
+    
+    ],
+
+    "project": [
+      {
+        "id": "1",
+        "src": "public/img/web1.png",
+        "title": "Shop",
+        "description": "Shopping is an activity in which a customer browses the available goods",
+        "link": "View In Github"
+      },
+      {
+        "id": "2",
+        "src": "public/img/web2.png",
+        "title": "Cart",
+        "description": "Cart items consist of data about items placed in the shopping cart by visitors on your website.",
+        "link": "View In Github"
+       
+      }
+    ]
+}
+
